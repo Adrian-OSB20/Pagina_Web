@@ -1,0 +1,192 @@
+*{
+    margin: 0px;
+    
+}
+
+.body{
+    
+    align-content: center;
+    margin-top: 17%;
+    justify-content: center;
+    background-image: url(wallpaperbetter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+
+}
+.colortitulo {
+    color: white;
+    font-family: sans-serif;
+    
+}
+.NombreA{
+    margin-top: 25px;
+    color: white;
+    font-family: sans-serif;
+} 
+.Bot{
+   
+    background-color: rgb(0, 65, 14);
+}
+
+.bodypagprin {
+   background-color: #e3e3e3;
+}
+.RedesS {
+    color: black;
+    background-color: #65727c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:  50px;
+}
+.menu {
+    color: aliceblue;
+    background-color: #f5e1c8;
+    height: 70px; 
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.LOGO {
+   height: 50px;
+
+}
+.Lista {
+    display: flex;
+    list-style: none;
+    margin-left: 40px;
+    font-size: 20px;
+    color: black;
+}
+
+.l1 {
+    margin-left: 40px;
+}
+.Logoss {
+    width: 30px;
+    margin-left: 20px;
+}
+.piedepag {
+height: 100px;
+display: flex;
+justify-content: center;
+justify-items: center;   
+
+background: #65727c;
+    
+}
+.primpart {
+    display: flex;
+    justify-content: right;
+}
+.Tarje {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+.tarjetona {
+    width: 20%;
+    border: 3px solid #8c8c8c;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 30px;
+}
+.parteprin {
+    display: flex;
+    justify-content: center;
+    padding: 10% 100px;
+}
+.Partestit {
+    text-size-adjust: 10px;
+    color: solid black;
+    font-family: monospace;
+}
+.partu {
+    margin-left: 30px;
+    color: solid black;
+    text-size-adjust: 10px;
+    
+}
+.titulobio {
+    color: solid black;
+    display: flex;
+}
+.Cuerpo_AcercadeMI{
+    height:60vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.IMG_PRIN{
+    width: auto;
+    border-image: 15px;
+    border-radius: 10px;
+
+}
+.princi_Index {
+text-align: center;  
+color: #e3e3e3;
+}
+.Img_yo{
+    width: 400px;
+    border-radius: 15px;
+
+}
+.AC_Texto{
+    font-family: 'Segoe UI';
+    font-size: medium;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.Img_produc{
+    width: 600px;
+    border-radius: 10px;
+}
+.H1_Prod{
+    font-size: 40px;
+    font-family:  monospace;
+}
+.P1_Prod{
+    font-size: 20px;
+    font-family:  monospace;
+}
+.p_index{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.P_tarj{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.IMG_TarjM{
+    width: 200px;
+    border-radius: 10px;
+}
+.Noton_Tarj{
+    width: 100px;
+    height: 50px;
+}
+.P1_ACER{
+    font-family: 'Segoe UI';
+    font-size: medium;
+    margin-left: 15px;
+    margin-right: 15px;
+    align-items: center;
+}
+.H1_cont{
+    margin-top: 20px;
+    font-family: monospace;
+}
+.P_cont{
+    margin-top: 20px;
+    font-family: monospace;
+}
+.Img_cont{
+    width: 200px;
+
+}
